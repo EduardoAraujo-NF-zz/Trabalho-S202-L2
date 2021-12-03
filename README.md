@@ -1,5 +1,3 @@
-# README.md
-
 ## CLI Python + MongoDB
 
 1. Instalar os requisitos
